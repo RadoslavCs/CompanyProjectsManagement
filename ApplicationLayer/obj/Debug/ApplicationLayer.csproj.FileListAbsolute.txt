@@ -1,0 +1,9 @@
+C:\Users\rados\OneDrive\Desktop\CompanyProjectsManagement\CompanyProjectsManagement\ApplicationLayer\bin\Debug\ApplicationLayer.dll
+C:\Users\rados\OneDrive\Desktop\CompanyProjectsManagement\CompanyProjectsManagement\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+C:\Users\rados\OneDrive\Desktop\CompanyProjectsManagement\CompanyProjectsManagement\ApplicationLayer\bin\Debug\DataLayer.dll
+C:\Users\rados\OneDrive\Desktop\CompanyProjectsManagement\CompanyProjectsManagement\ApplicationLayer\bin\Debug\DataLayer.pdb
+C:\Users\rados\OneDrive\Desktop\CompanyProjectsManagement\CompanyProjectsManagement\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\rados\OneDrive\Desktop\CompanyProjectsManagement\CompanyProjectsManagement\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\rados\OneDrive\Desktop\CompanyProjectsManagement\CompanyProjectsManagement\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.CopyComplete
+C:\Users\rados\OneDrive\Desktop\CompanyProjectsManagement\CompanyProjectsManagement\ApplicationLayer\obj\Debug\ApplicationLayer.dll
+C:\Users\rados\OneDrive\Desktop\CompanyProjectsManagement\CompanyProjectsManagement\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
